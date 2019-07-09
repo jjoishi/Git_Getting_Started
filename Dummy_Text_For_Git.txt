@@ -12,4 +12,3 @@ Steps to be followed after this -
 2. Issue "git init" to initialize git tracking on this directory.
 3. Add this file (and other if any) to git by issuing "git add <filename>". Wildcard also works here.
 4. Commit your changes and optionally add comments if any. Issue "git commit -m 'Your message here'"
-5.
