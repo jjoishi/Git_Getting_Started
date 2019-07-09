@@ -1,0 +1,14 @@
+This is a test file.
+
+Steps followed until here - 
+1. Install Git.
+2. Set up Github account.
+3. Create a workspace folder on your system.
+4. Launch editor from the workspace folder and create a new file (this file).
+
+
+Steps to be followed after this - 
+1. Save the file.
+2. Issue "git init" to initialize git tracking on this directory.
+3. Add this file (and other if any) to git by issuing "git add <filename>". Wildcard also works here.
+4. Commit your changes and optionally add comments if any. Issue "git commit -m 'Your message here'"
